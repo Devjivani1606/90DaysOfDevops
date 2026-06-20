@@ -1,11 +1,11 @@
 Week 01 Reflection & Revision
-🚀 DevOps Challenge - Week 01
+# DevOps Challenge - Week 01
 
 This week marked the beginning of my DevOps journey. My primary focus was understanding Linux fundamentals, learning how operating systems work behind the scenes, and becoming comfortable with daily Linux administration tasks.
 
 The goal was not just to memorize commands but to understand what actually happens inside a Linux system when it boots, executes commands, manages processes, and interacts with hardware.
 
-🎯 Topics Covered
+# Topics Covered
 
 During this week, I learned and practiced:
 
@@ -92,7 +92,8 @@ Aliases
 Creating Aliases
 Permanent Aliases
 Productivity Shortcuts
-🧠 Key Concepts I Understood
+
+# Key Concepts I Understood
 
 One of the most important lessons from this week was understanding that Linux is not just a collection of commands.
 
@@ -126,7 +127,7 @@ User Login
 
 This helped me understand what happens behind the scenes when a Linux machine starts.
 
-🔥 Challenges Faced
+# Challenges Faced
 Challenge 1
 
 Understanding the difference between:
