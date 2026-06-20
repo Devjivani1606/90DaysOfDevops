@@ -138,7 +138,7 @@ systemd
 
 Initially they seemed similar, but after studying Linux architecture, I understood their separate responsibilities.
 
-Challenge 2
+# Challenge 2
 
 Understanding Linux permissions.
 
@@ -150,7 +150,7 @@ chgrp
 
 required practice before the permission model became clear.
 
-Challenge 3
+# Challenge 3
 
 Understanding Process Management.
 
@@ -162,3 +162,79 @@ kill
 jobs
 
 and how Linux manages running applications internally.
+
+Biggest Takeaway
+
+Linux is not about remembering commands.
+
+Linux is about understanding:
+
+How systems work
+How processes run
+How services communicate
+How resources are managed
+How troubleshooting is performed
+
+Commands are simply tools used to interact with the operating system.
+
+# Next Week Goal
+
+Week 02 Focus:
+
+Git & GitHub
+
+Topics:
+
+Version Control
+Git Workflow
+Local Repository
+Remote Repository
+GitHub Collaboration
+Pull Requests
+Branching & Merging
+Git Hooks
+GitHub Actions
+
+Goal:
+
+Learn how professional teams manage source code and automate development workflows.
+
+# Motivation Corner
+DevOps Journey Rules
+
+Consistency beats intensity.
+
+Learn every day, even if it is only for 30 minutes.
+
+Small improvements every day create massive results over time.
+
+Understanding is more valuable than memorization.
+
+Build first, memorize later.
+
+Practice creates confidence.
+
+Documentation turns learning into knowledge.
+
+# My Challenge Motto
+Day by Day
+Learn
+Practice
+Document
+Build
+Repeat
+Growth Mindset
+Today's Beginner
+        ↓
+Tomorrow's Engineer
+        ↓
+Future DevOps Professional
+Personal Commitment
+
+I will continue this challenge with discipline, consistency, and curiosity.
+
+Every command learned, every problem solved, and every project completed is one step closer to becoming a skilled DevOps Engineer.
+
+# One Day at a Time.
+# One Commit at a Time.
+# One Skill at a Time.
