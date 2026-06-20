@@ -135,3 +135,39 @@ Build
           │
           ▼
 Deployment
+
+I learned that GitHub Actions is essentially GitHub's built-in CI/CD platform.
+
+🔥 Challenges Faced
+Challenge 1
+
+Understanding:
+
+git add
+git commit
+git push
+
+At first these commands looked similar.
+
+After practice I understood:
+
+add → Stage changes
+commit → Save changes locally
+push → Upload changes to GitHub
+Challenge 2
+
+Understanding Branches.
+
+Initially I was confused about:
+
+git checkout
+git branch
+git merge
+
+After creating multiple branches and merging them, the workflow became much clearer.
+
+Challenge 3
+
+Understanding GitHub Actions.
+
+The YAML workflow syntax was new to me, but I learned how workflows automate testing and deployments.
