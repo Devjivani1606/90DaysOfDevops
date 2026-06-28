@@ -1,4 +1,4 @@
-# 🌐 Day 5–6: Web Networking for DevOps
+# Day 5–6: Web Networking for DevOps
 
 ## Overview
 

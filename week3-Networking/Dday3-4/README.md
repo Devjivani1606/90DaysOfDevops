@@ -1,4 +1,4 @@
-# 🌐 Network Communication Fundamentals (Day 3-4)
+# Network Communication Fundamentals (Day 3-4)
 
 ## Overview
 

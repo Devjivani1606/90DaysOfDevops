@@ -1,4 +1,4 @@
-# 🌐 Networking Fundamentals for DevOps (Day 1-2)
+# Networking Fundamentals for DevOps (Day 1-2)
 
 ## Overview
 
